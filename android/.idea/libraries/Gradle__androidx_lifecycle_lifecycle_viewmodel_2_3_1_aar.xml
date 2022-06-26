@@ -7,6 +7,9 @@
       <root url="jar://F:/gradle/caches/transforms-3/42704fbbed6008efb81a97a397c75d93/transformed/lifecycle-viewmodel-2.3.1/jars/classes.jar!/" />
       <root url="file://F:/gradle/caches/transforms-3/42704fbbed6008efb81a97a397c75d93/transformed/lifecycle-viewmodel-2.3.1/res" />
       <root url="file://F:/gradle/caches/transforms-3/42704fbbed6008efb81a97a397c75d93/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6e6b29cd89890a6f3c36c9dbd75b0b59/transformed/lifecycle-viewmodel-2.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6e6b29cd89890a6f3c36c9dbd75b0b59/transformed/lifecycle-viewmodel-2.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6e6b29cd89890a6f3c36c9dbd75b0b59/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
