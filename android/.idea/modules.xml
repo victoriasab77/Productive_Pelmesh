@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Productive_Pelmesh.iml" filepath="$PROJECT_DIR$/.idea/modules/Productive_Pelmesh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Productive_Pelmesh.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Productive_Pelmesh.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Productive_Pelmesh.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Productive_Pelmesh.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Productive_Pelmesh.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Productive_Pelmesh.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Productive_Pelmesh.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Productive_Pelmesh.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-797822940/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-797822940/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-797822940/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-797822940/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-797822940/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/-797822940/react-native-gradle-plugin.test.iml" />
+    </modules>
+  </component>
+</project>

@@ -7,7 +7,8 @@
  */
 
 import React from 'react';
-import type {Node} from 'react';
+
+/*import LinearGradient from 'react-native-linear-gradient';*/
 import {
   SafeAreaView,
   ScrollView,
@@ -15,7 +16,8 @@ import {
   StyleSheet,
   Text,
   useColorScheme,
-  View,
+  View
+  
 } from 'react-native';
 
 import {
@@ -25,6 +27,36 @@ import {
   LearnMoreLinks,
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
+
+
+const styles = StyleSheet.create({
+  center: {
+    alignItems: 'center'
+  }
+})
+
+const MainScreen = () => {
+  return (
+    <View style={{flex:1,
+      justifyContent:'center',
+      alignItems:'center',
+      position:'absolute',
+      top: 0,
+      left:0,
+      height: '100%',
+      width:'100%',
+      backgroundColor: 'red'}} >
+      
+    </View>
+  );
+}
+
+/*
+<LinearGradient
+      colors={['#136a8a', '#267871']}
+      start={[0,0.65]}>
+      <Text>Goals</Text>
+      </LinearGradient>
 
 const Section = ({children, title}): Node => {
   const isDarkMode = useColorScheme() === 'dark';
@@ -108,5 +140,5 @@ const styles = StyleSheet.create({
     fontWeight: '700',
   },
 });
-
-export default App;
+*/
+export default MainScreen;
